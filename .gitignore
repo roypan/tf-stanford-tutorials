@@ -1,9 +1,6 @@
-
-*.pdf
-
 *.SUNet
 *.pyc
-
+*checkpoint.ipynb
 
 examples/checkpoints/*
 
